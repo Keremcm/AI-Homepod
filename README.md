@@ -27,17 +27,19 @@ Requirements
 
 Installation
 
-    Clone this repository to your local machine:
+Clone this repository to your local machine:
+    
+    git clone https://github.com/yourusername/voice-assistant.git
 
-git clone https://github.com/yourusername/voice-assistant.git
+
 
 Install the necessary dependencies:
 
     pip install -r requirements.txt
 
-    You will also need to create and add your own OpenWeatherMap API key in the weather function.
+  You will also need to create and add your own OpenWeatherMap API key in the weather function.
 
-    Set up the environment for the microphone and speech recognition on your system.
+  Set up the environment for the microphone and speech recognition on your system.
 
 How to Use
 
