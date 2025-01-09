@@ -327,7 +327,7 @@ def hava_durumu():
     try:
         speak("İlgileniyorum...")
         # API anahtarını buraya ekleyin
-        api_key = "1a44ca0976662f6f21b9cab1af1db067"
+        api_key = "<OpenWeatherMap API anahtarınız>"
 
         # Şehir ismini buraya ekleyin
         location = get_location_info()
@@ -373,7 +373,7 @@ def git(text):
         yer = yer_ayıkla(text)
         
         # API anahtarını buraya ekleyin
-        api_key = "1a44ca0976662f6f21b9cab1af1db067"
+        api_key = "<OpenWeatherMap API anahtarınız>"
 
         # Şehir ismini argümandan alın
         city = yer
